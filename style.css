@@ -1,0 +1,51 @@
+/* 
+    selector {
+        propiedad : valor ;
+        propiedad : valor ;
+    }
+*/
+
+body {
+    /* Cambiar color de fondo */
+    background-color:#8AA6A3 ;
+    /* Color de texto */
+    color: #034159;
+    /* Cambiar fuente del texto */
+    font-family: 'Roboto Slab', serif;
+}
+
+h1{
+    /*  */
+    color:#172026;
+    font-family: 'Cinzel', serif;
+}
+
+h3 {
+    color: #10403B;
+}
+
+a{
+    color:#025939
+}
+
+img{ 
+    /* Width:ancho del objeto // Height:alto del objeto */
+    width: 200px;
+    height: 200px;
+}
+
+.aurora-azul {
+    width: 300px
+}
+
+.aurora-nieve{
+    width: 350px;
+    /* Border radius */
+    border-radius: 80px;
+    /* sombras */
+    box-shadow: 10px 5px 5px 5px #03A63C ;
+}
+
+.button-send{
+    border-color: #04D939;
+}
